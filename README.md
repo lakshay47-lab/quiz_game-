@@ -4,7 +4,7 @@ A simple and interactive **quiz game written in C++**
 
 ---
 
-## 🎮 How It Works
+##  How It Works
 
 - The game asks the user multiple-choice questions (MCQs)
 - Each correct answer gives the user points
@@ -22,7 +22,7 @@ A simple and interactive **quiz game written in C++**
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - `if-else` and `switch` statements
 - Arrays / structures (if used)
@@ -34,7 +34,7 @@ A simple and interactive **quiz game written in C++**
 
 ## 🖥️ How to Run
 
-### ▶️ On Replit:
+### ▶ On Replit:
 1. Click the **Run** button
 2. Answer the questions by typing appropriate option
 3. See your score at the end!
@@ -50,7 +50,7 @@ A simple and interactive **quiz game written in C++**
 
 
 
-📸 Screenshot
+ Screenshot
 ![quiz](https://github.com/user-attachments/assets/ccbe905c-b085-47a2-94ce-f0cca8d382ba)
 
 
